@@ -25,9 +25,9 @@ For help dm me on discord @liam0mc
 
 Example uses can be found in the links below:
 
-[liamgadams.com][https://liamgadams.com]
-[liambmx.github.io/LilUziTurt/][https://liambmx.github.io/LilUziTurt/]
-[liambmx.github.io/Shzaltht/][https://liambmx.github.io/Shzaltht/]
+_[liamgadams.com][https://liamgadams.com]._
+_[liambmx.github.io/LilUziTurt/][https://liambmx.github.io/LilUziTurt/]._
+_[liambmx.github.io/Shzaltht/][https://liambmx.github.io/Shzaltht/]._
 
 ## Release History
 
