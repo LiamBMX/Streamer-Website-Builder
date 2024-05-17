@@ -3,6 +3,8 @@
 
 This resource allows you to build and deploy a website for yourself or your social links using a very simple GUI.
 
+![](header.png)
+
 ## Installation
 
 1. Clone the repo
