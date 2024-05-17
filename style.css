@@ -1,0 +1,178 @@
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+*,
+:after,
+:before {
+  box-sizing: inherit;
+}
+
+body {
+  background-image: url(background.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  max-width: 100%;
+  min-height: 100vh;
+  height: auto;
+  letter-spacing: 0.1em;
+}
+
+.logo {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+h2 {
+  color: #024873;
+}
+
+.links__item {
+  display: block;
+  max-width: 550px;
+  margin: 0 auto 15px;
+  margin-bottom: 5px;
+  padding: 15px 20px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  color: black;
+}
+
+.links__item .links__item--hover {
+  background-color: #fff;
+}
+
+/*Please edit the colours from this point */
+
+.links__item .links__item-portfolio {
+  border-bottom: 3px solid #405DE6; 
+  box-shadow: inset 0 -4px 0 #405DE6;
+  border-radius: 25px;
+  border: 2px solid #405DE6;
+  background-color: #405DE6;
+}
+
+.links__item .links__item-social {
+  border-bottom: 3px solid #C13584;
+  box-shadow: inset 0 -4px 0 #C13584;
+  border-radius: 25px;
+  border: 2px solid #C13584;
+  background-color: #C13584;
+}
+
+.footer {
+  border-bottom: 3px solid #808080;
+  box-shadow: inset 0 -4px 0 #808080;
+  border-radius: 25px;
+  border: 2px solid #808080;
+  background-color: #808080;
+}
+
+/* Those are al the colours that you need to edit */
+
+.channels {
+  display: flex;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.channels .channels__item {
+  flex: 1;
+  margin-right: 5px;
+  transition: transform 0.2s;
+}
+
+.channels__item:hover {
+  transform: scale(1.5);
+}
+
+
+.links__item-tiktok {
+  display: block;
+  max-width: 550px;
+  margin: 0 auto 15px;
+  margin-bottom: 5px;
+  padding: 15px 20px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  color: black;
+  background: linear-gradient(135deg, #25F4EE, #FE2C55);
+  border-bottom: 3px solid #000000; 
+  box-shadow: inset 0 -4px 0 #000000;
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+}
+.links__item-discord {
+  display: block;
+  max-width: 550px;
+  margin: 0 auto 15px;
+  margin-bottom: 5px;
+  padding: 15px 20px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  color: black;
+  background: linear-gradient(135deg, #5865F2, #5865F2);
+  border-bottom: 3px solid #3e4a85; 
+  box-shadow: inset 0 -4px 0 #3e4a85;
+  border-radius: 25px;
+  border: 2px solid #3e4a85;
+}
+.links__item-twitch {
+  display: block;
+  max-width: 550px;
+  margin: 0 auto 15px;
+  margin-bottom: 5px;
+  padding: 15px 20px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  color: rgb(255, 255, 255);
+  background: linear-gradient(135deg, #4f69df, #371ec2);
+  border-bottom: 3px solid #ffffff; 
+  box-shadow: inset 0 -4px 0 #ffffff;
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+}
+.links__item-twitch:hover {
+  transform: scale(1.1); /* Scale up on hover */
+}
+.divider-button {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #231446;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  transition: all 0.2s ease-in-out;
+  width: 400px; /* Adjust width as needed */
+  /* Override background-size for the button */
+  background-size: auto; /* Or you can use a specific value like "auto" or "contain" */
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  border-bottom: 3px solid #ffffff; 
+  box-shadow: inset 0 -4px 0 #ffffff;
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+}
+.divider-button:hover {
+  transform: scale(1.1); /* Scale up on hover */
+}
