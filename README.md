@@ -1,10 +1,6 @@
 # Streamer Website builder
 > This resource allows you to build and deploy a website for yourself or your social links using a very simple GUI.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 This resource allows you to build and deploy a website for yourself or your social links using a very simple GUI.
 
 ## Installation
