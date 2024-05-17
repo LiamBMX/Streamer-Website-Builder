@@ -96,42 +96,6 @@ h2 {
 .channels__item:hover {
   transform: scale(1.5);
 }
-
-
-.links__item-tiktok {
-  display: block;
-  max-width: 550px;
-  margin: 0 auto 15px;
-  margin-bottom: 5px;
-  padding: 15px 20px;
-  font-size: 0.95rem;
-  line-height: 1.5;
-  text-decoration: none;
-  transition: all 0.2s ease-in-out;
-  color: black;
-  background: linear-gradient(135deg, #25F4EE, #FE2C55);
-  border-bottom: 3px solid #000000; 
-  box-shadow: inset 0 -4px 0 #000000;
-  border-radius: 25px;
-  border: 2px solid #ffffff;
-}
-.links__item-discord {
-  display: block;
-  max-width: 550px;
-  margin: 0 auto 15px;
-  margin-bottom: 5px;
-  padding: 15px 20px;
-  font-size: 0.95rem;
-  line-height: 1.5;
-  text-decoration: none;
-  transition: all 0.2s ease-in-out;
-  color: black;
-  background: linear-gradient(135deg, #5865F2, #5865F2);
-  border-bottom: 3px solid #3e4a85; 
-  box-shadow: inset 0 -4px 0 #3e4a85;
-  border-radius: 25px;
-  border: 2px solid #3e4a85;
-}
 .links__item-twitch {
   display: block;
   max-width: 550px;
@@ -176,3 +140,4 @@ h2 {
 .divider-button:hover {
   transform: scale(1.1); /* Scale up on hover */
 }
+
