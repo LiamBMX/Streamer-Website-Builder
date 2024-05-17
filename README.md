@@ -1,5 +1,5 @@
-# Product Name
-> Short blurb about what your product does.
+# Streamer Website builder
+> This resource allows you to build and deploy a website for yourself or your social links using a very simple GUI.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
