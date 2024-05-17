@@ -61,6 +61,9 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 - [ ] Style GUI better
 - [ ] Make website for easier use
 - [ ] Multi-language Support
+- [ ] Add a way to add dividers
+- [ ] Way to display email
+- [ ] Upload custom icons to buttons
     - [ ] Chinese
     - [ ] Spanish
 
