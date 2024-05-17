@@ -50,6 +50,16 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
+## Roadmap
+
+- [x] Add Changelog
+- [ ] Add way to change colors
+- [ ] Style GUI better
+- [ ] Make website for easier use
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
 ## Donating 
 
 Cashapp - $liamshuffle
