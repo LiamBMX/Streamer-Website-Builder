@@ -27,9 +27,9 @@ For help dm me on discord @liam0mc
 
 Example uses can be found in the links below:
 
-_My personal website [liamgadams.com][https://liamgadams.com]._
-_My friends website made by me w the repo [liambmx.github.io/LilUziTurt/][https://liambmx.github.io/LilUziTurt/]._
-_Other friends website made by me w the repo [liambmx.github.io/Shzaltht/][https://liambmx.github.io/Shzaltht/]._
+_My personal website [liamgadams.com](https://liamgadams.com)._
+_My friends website made by me w the repo [liambmx.github.io/LilUziTurt/](https://liambmx.github.io/LilUziTurt/)._
+_Other friends website made by me w the repo [liambmx.github.io/Shzaltht/](https://liambmx.github.io/Shzaltht/)._
 
 ![](example.png)
 
